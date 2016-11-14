@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/rs/rest-layer/schema"
+	"github.com/cool-rest/rest-layer/schema"
 	"gopkg.in/mgo.v2/bson"
 )
 

@@ -4,11 +4,11 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/rs/cors"
-	"github.com/rs/rest-layer-mongo"
-	"github.com/rs/rest-layer/resource"
-	"github.com/rs/rest-layer/rest"
-	"github.com/rs/rest-layer/schema"
+	"github.com/cool-rest/cors"
+	"github.com/cool-rest/rest-layer-mongo"
+	"github.com/cool-rest/rest-layer/resource"
+	"github.com/cool-rest/rest-layer/rest"
+	"github.com/cool-rest/rest-layer/schema"
 	"gopkg.in/mgo.v2"
 )
 
